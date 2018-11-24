@@ -1,0 +1,8 @@
+{
+  "contacts": [
+    {"id": 1, "name": "Vivi Habibi, S.Ked", "email": "ewelch@example.com", "phone": "01230812"},
+    {"id": 2, "name": "Fernando Norton", "email": "sihombingnarji@example.com", "phone": "01230812"},
+    {"id": 3, "name": "Bella Palastri", "email": "niyagasitorus@example.com", "phone": "01230812"},
+    {"id": 4, "name": "Kevin Wu", "email": "ghutagalung@example.org", "phone": "01230812"}
+  ]
+}
